@@ -1,7 +1,6 @@
 module GWBeliefMDPs
 
 importall POMDPs
-importall GenerativeModels
 using POMDPModels
 using POMDPToolbox
 
