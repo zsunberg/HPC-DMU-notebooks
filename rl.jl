@@ -1,5 +1,4 @@
 using Distributions
-using GenerativeModels
 using StatsBase
 include("gridworld.jl")
 include("helpers.jl")
